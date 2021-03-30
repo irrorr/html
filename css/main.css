@@ -1,0 +1,34 @@
+/*градиентный фон на body*/
+.bodyk {
+    background: radial-gradient(at top, #FEFFFF, #2d2d2d) fixed;
+}
+
+/*бесплатный шрифт с сайта https://www.fonts-online.ru/font/Raleway */
+@font-face {
+    font-family: raleway; /* Имя шрифта */
+    src: url(../fonts/raleway.ttf); /* Путь к файлу со шрифтом */
+   }
+/* стили ссылок*/
+a {
+    font-family: raleway;
+    margin: 20px; /* внешний отступ со всех сторон*/
+}
+a:link { 
+    text-decoration: none; /* Убирает подчеркивание для ссылок */
+} 
+a:visited { 
+    text-decoration: none; /* Убирает подчеркивание для ссылок */
+} 
+a:active { 
+    text-decoration: none; /* Убирает подчеркивание для ссылок */
+}
+a:hover {
+    text-decoration: underline; /* Делает ссылку подчеркнутой при наведении на нее курсора */
+    color: white; /* Цвет ссылки */
+} 
+
+/* стили хэдера */
+header {
+    width: 100%;
+    text-align: center;
+}
