@@ -12,6 +12,8 @@
 a {
     font-family: raleway;
     margin: 20px; /* внешний отступ со всех сторон*/
+    color: black;
+    font-size: 20px;
 }
 a:link { 
     text-decoration: none; /* Убирает подчеркивание для ссылок */
@@ -24,7 +26,7 @@ a:active {
 }
 a:hover {
     text-decoration: underline; /* Делает ссылку подчеркнутой при наведении на нее курсора */
-    color: white; /* Цвет ссылки */
+    color: rgb(90, 90, 90); /* Цвет ссылки */
 } 
 
 /* стили хэдера */
