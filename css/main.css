@@ -34,3 +34,10 @@ header {
     width: 100%;
     text-align: center;
 }
+
+/* стиль main*/
+.main {
+    padding-top: 10%;
+    font-family: raleway;
+    text-align: center;
+}
