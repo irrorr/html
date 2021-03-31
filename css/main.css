@@ -52,7 +52,7 @@ header {
 
 /* стиль main*/
 .main {
-    padding-top: 15%;
+    padding-top: 10%;
     font-family: raleway;
     text-align: center;
 }
@@ -71,4 +71,9 @@ header {
 .img_clon{
     width: 290px;
     height: auto;
+}
+
+/* стиль логотипа php */
+.slon_php {
+    width: 200px;
 }
