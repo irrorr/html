@@ -1,4 +1,4 @@
-/*градиентный фон на body*/
+/*градиентный фон с анимацией на body*/
 .bodyk {
     background: radial-gradient(at top, #809dfd, #ffffff) fixed;
     background-size: 400% 400%;
